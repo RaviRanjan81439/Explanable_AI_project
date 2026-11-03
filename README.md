@@ -1,6 +1,4 @@
-# Explanable_AI_project
-Explainable AI Experiments using FreeMCG
-
+# FreeMCG: Explainable AI Experiments
 
 A reproducibility-focused project exploring **FreeMCG (Free-form Multi-Concept Guidance)** for explainable image classification. The repository contains notebooks and saved outputs for feature attribution, ROAD-based explanation evaluation, counterfactual generation, and a Phase 2 experiment studying the runtime–quality trade-off of using fewer reverse-diffusion steps.
 
@@ -151,6 +149,5 @@ The repository includes previously generated CSV/JSON metrics, plots, image pane
 
 This project reproduces and evaluates methods from the FreeMCG research work. Please consult `Original research paper FREEMCG.pdf` for the source paper's bibliographic details and cite the original authors when reusing the method. Also cite ImageNet and the pretrained model/checkpoint sources where applicable. This repository's notebooks and experimental results should be cited separately if reused.
 
-## License
 
 No license has been specified for this repository. Unless a license is added, do not assume that the project code, reports, or included assets are available for unrestricted reuse. External datasets, pretrained weights, and the original FreeMCG implementation remain subject to their respective licenses and terms.
