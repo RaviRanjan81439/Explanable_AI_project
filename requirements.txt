@@ -1,0 +1,10 @@
+# Common notebook and experiment utilities.
+# Install torch and torchvision separately for the CUDA/runtime combination:
+# https://pytorch.org/get-started/locally/
+numpy
+pandas
+matplotlib
+Pillow
+tqdm
+jupyter
+ipykernel

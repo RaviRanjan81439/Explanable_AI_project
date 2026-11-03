@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local datasets, model checkpoints and large generated artifacts
+# Keep these external unless distribution rights and Git hosting limits are confirmed.
+ILSVRC2012/
+diffusion_ckpts/
+*.pt
+*.pth
+*.ckpt
+
+# Local experiment scratch/output directories
+/kaggle/
